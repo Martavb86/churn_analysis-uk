@@ -66,11 +66,17 @@ This project analyzes customer churn in a UK-based telecommunications company. T
 ## Folder Structure
 
 churn-analysis-uk/
+
 │── data/
+
 │ ├── # Original dataset
+
 │ └── processed/ # Cleaned dataset & high-risk customers
+
 │── notebooks/ # Step-by-step Jupyter notebooks
+
 │── visuals/ # Visualizations and charts
+
 │── README.md # Project overview and insights
 
 
