@@ -19,9 +19,6 @@ This project showcases my ability to analyze customer churn in a UK telecommunic
 - Generated professional visualizations of churn distribution and key features.
 - Provided actionable business recommendations to reduce churn, based on data.
 
-![Churn Distribution](visuals/churn_distribution.png)
-
-
 # Telecom Customer Churn Analysis - UK
 
 ## Project Overview
