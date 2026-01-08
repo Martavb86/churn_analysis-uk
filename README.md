@@ -1,3 +1,27 @@
+## About Me
+
+I am a recent graduate in Web Development and a Master in AI and Data Analysis from UNIR.  
+I have experience in data cleaning, exploratory data analysis, visualization, and deriving actionable business insights.  
+This project showcases my ability to analyze customer churn in a UK telecommunications context.
+
+## Tools and Technologies
+
+- Python (pandas, numpy, matplotlib, seaborn)
+- Jupyter Notebook
+- Git & GitHub
+- Data visualization & exploratory data analysis
+- Basic SQL knowledge
+
+## Project Highlights
+
+- Identified that customers on month-to-month contracts and Fiber optic internet are at higher risk of churn.
+- Segmented high-risk customers and saved them for further analysis.
+- Generated professional visualizations of churn distribution and key features.
+- Provided actionable business recommendations to reduce churn, based on data.
+
+![Churn Distribution](visuals/churn_distribution.png)
+
+
 # Telecom Customer Churn Analysis - UK
 
 ## Project Overview
